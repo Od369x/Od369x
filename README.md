@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Od369x
-- 👀 I’m interested in marketing right now
-- 🌱 I’m currently learning email marketing
+- 👀 I’m interested in right now
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on advertising
 - 📫 How to reach me
- ✉️ HereIsYourSign@OpticalDelusions369.com
+ ✉️ opticalDelusions369@gmail.com
 <!---
 Od369x/Od369x is a ✨ special ✨ repository 
 because its `README.md` (this file) appears 
